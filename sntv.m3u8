@@ -5259,7 +5259,7 @@ http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=1112135&extens
 #EXTINF: -1 tvg-id="559" tvg-name="Pogo Hindi 2" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Pogo_Hindi.png" tvg-logo-small="http://jiotv.catchup.cdn.jio.com/dare_images/images/Pogo_Hindi.png" audio-track="Multi Audio" group-title=" KIDS", Pogo
 http://starshare.live:8080/live/asif@24680/asif@24680/1918.ts
 
-#EXTINF: -1 tvg-id="114" tvg-name="Disney Channel HD" tvg-chno="22" tvg-logo="https://m3u-editor.com/storage/channel-logos/6b58c590-eda1-11ed-b920-87fee280370e/4742351/840335175.png" tvg-logo-small="https://static.wikia.nocookie.net/logopedia/images/1/11/Disney_Channel_India_HD.png/revision/latest/scale-to-width-down/1000?cb=20211017152532" audio-track="Hindi" group-title=" HOTSTAR TV", Disney Channel HD
+#EXTINF: -1 tvg-id="114" tvg-name="Disney Channel HD" tvg-chno="22" tvg-logo="https://m3u-editor.com/storage/channel-logos/6b58c590-eda1-11ed-b920-87fee280370e/4742351/840335175.png" tvg-logo-small="https://static.wikia.nocookie.net/logopedia/images/1/11/Disney_Channel_India_HD.png/revision/latest/scale-to-width-down/1000?cb=20211017152532" audio-track="Hindi" group-title=" KIDS", Disney Channel HD
 http://portal.zebratv.one:2095/play/live.php?mac=00:1A:79:BF:DC:77&stream=517273&extension=ts&play_token=vqFHN7YhnH
 
 #EXTINF:-1 tvg-id="" tvg-name="DORAEMON 24/7" tvg-logo="https://static.wikia.nocookie.net/doraemon/images/1/18/Doraemon_renew_2.png/revision/latest/scale-to-width-down/350?cb=20220727181256&path-prefix=en" group-title="KIDS 24/7",DORAEMON 24/7
