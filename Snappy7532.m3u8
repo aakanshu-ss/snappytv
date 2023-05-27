@@ -5292,3 +5292,6 @@ http://starshare.live:8080/live/5281523130/8262527228/147736.ts
 http://starshare.live:8080/live/5281523130/8262527228/149012.ts
 #EXTINF:-1 tvg-id="" tvg-name="CARTOON NETWORK (hindi)" tvg-logo="https://static.epg.best/mu/CartoonNetwork.mu.png" group-title=" KIDS",
 http://tv.zaintv.net:80/axpu3YghVc/nS6ETi3mZC/56365
+
+#EXTINF:-1 tvg-id="" tvg-name="The Kerala Story (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/g70f3hwn5jPaNzqPssoa9unlawo.jpg" group-title="SNAPPY MOVIES",The Kerala Story (2023)
+http://xtv.ooo:8080/movie/5449/5449/344671.mkv
