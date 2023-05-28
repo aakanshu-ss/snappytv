@@ -3134,10 +3134,10 @@ http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=1112134&extens
 #EXTINF: -1 tvg-id="tw02" tvg-chno="70" tvg-logo="https://i.postimg.cc/MH1j1804/t0Ecro6.png" group-title="Snappytv Kids", Hungama TV
 http://103.115.199.169:8000/play/a09c
 
-#EXTINF: -1 tvg-chno="376" tvg-logo="https://m3u-editor.com/storage/channel-logos/beed2b80-f88e-11ed-98ed-39f403a0a36c/4798292/850727355.png" group-title="Snappytv Kids", hungama
+#EXTINF: -1 tvg-chno="376" tvg-logo="https://i.postimg.cc/MH1j1804/t0Ecro6.png" group-title="Snappytv Kids", hungama
 http://202.125.144.115:8000/play/a00g/index.m3u8
 
-#EXTINF: -1 tvg-chno="455" tvg-logo="https://m3u-editor.com/storage/channel-logos/beed2b80-f88e-11ed-98ed-39f403a0a36c/4802969/851361472.png" group-title="Snappytv Kids", hungama tv-Rs 1
+#EXTINF: -1 tvg-chno="455" tvg-logo="https://i.postimg.cc/MH1j1804/t0Ecro6.png" group-title="Snappytv Kids", hungama tv-Rs 1
 http://103.115.199.169:8000/play/a09c
 
 #EXTINF: -1 tvg-id="114" tvg-name="Disney Channel HD" tvg-chno="22" tvg-logo="https://m3u-editor.com/storage/channel-logos/6b58c590-eda1-11ed-b920-87fee280370e/4742351/840335175.png" tvg-logo-small="https://static.wikia.nocookie.net/logopedia/images/1/11/Disney_Channel_India_HD.png/revision/latest/scale-to-width-down/1000?cb=20211017152532" audio-track="Hindi" group-title=" Snappytv Kids", Disney Channel HD
