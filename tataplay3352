@@ -3142,3 +3142,7 @@ http://103.115.199.169:8000/play/a09c
 
 #EXTINF: -1 tvg-id="114" tvg-name="Disney Channel HD" tvg-chno="22" tvg-logo="https://m3u-editor.com/storage/channel-logos/6b58c590-eda1-11ed-b920-87fee280370e/4742351/840335175.png" tvg-logo-small="https://static.wikia.nocookie.net/logopedia/images/1/11/Disney_Channel_India_HD.png/revision/latest/scale-to-width-down/1000?cb=20211017152532" audio-track="Hindi" group-title=" Snappytv Kids", Disney Channel HD
 http://portal.zebratv.one:2095/play/live.php?mac=00:1A:79:BF:DC:77&stream=517273&extension=ts&play_token=vqFHN7YhnH
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=2YCBunugZi71W/8lthIHDpqoL3iFaaczL8MfBb8Z6FJs/iKKyA1kIgBhzDQhTL+J" #EXTINF:-1 tvg-id="587" group-title="Snappytv Kids" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-35365-jr3xz4uo-v5/imageContent-35365-jr3xz4uo-m6.png" ,Super Hungama
+https://bpprod7linear.akamaized.net/bpk-tv/irdeto_com_Channel_781/output/manifest.mpd
+
